@@ -1,3 +1,3 @@
 export const API_URL = "https://newback-ten.vercel.app";
 
-export const site = "www.videochatduo.site";
+export const site = "google-due.vercel.app";
